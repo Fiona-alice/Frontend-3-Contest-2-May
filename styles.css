@@ -1,0 +1,39 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    font-family: "Inter";
+    
+}
+.container{
+padding-left: 30px;
+margin-top: 30px;
+}
+.area-display{
+    display: block;
+    border-style: solid;
+    border-radius: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 15px;
+}
+#address{
+    width: 60%;
+    margin-bottom: 15px;
+    color: white;
+    background-color: black;
+    margin-top: 20px;
+}
+.result-container{
+    color: white;
+    background-color: black;
+    padding-left: 30px;
+    margin-top: 30px;
+    padding-top: 20px;
+}
+#btn{
+    width: 120px;
+    margin-bottom: 200px;
+}
+span{
+    margin-bottom: 10px;
+}
